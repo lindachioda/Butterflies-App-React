@@ -1,6 +1,11 @@
 
 🌐 **Live Demo:** [Butterfly Atlas](https://lindachioda.github.io/Butterflies-App-React/)
+  
+# 🦋🌱 Butterfly Atlas
 
+Welcome to **Butterfly Atlas**, a web application dedicated to discovering and exploring the fascinating world of butterflies!
+Browse different butterfly species, search for your favorite ones, and discover useful information about each species through a clean and nature-inspired interface.
+Butterfly Atlas is a personal learning project developed to practice React and TypeScript, work with external APIs, manage application state and build a complete responsive web application.
 
 ## 🛠️ Technologies Used
 
@@ -16,13 +21,6 @@
 - **iNaturalist API** – Retrieving butterfly species data and images.
 - **Git & GitHub** – Version control and project hosting.
 - **GitHub Actions** – Automating the deployment process with GitHub Pages.
-
-  
-# 🦋🌱 Butterfly Atlas
-
-Welcome to **Butterfly Atlas**, a web application dedicated to discovering and exploring the fascinating world of butterflies!
-Browse different butterfly species, search for your favorite ones, and discover useful information about each species through a clean and nature-inspired interface.
-Butterfly Atlas is a personal learning project developed to practice React and TypeScript, work with external APIs, manage application state and build a complete responsive web application.
 
 
 ## 🌍 API
