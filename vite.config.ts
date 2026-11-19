@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Butterfly-App-React/',
+  base: '/Butterflies-App-React/',
   server: {
     proxy: {
       "/api": {

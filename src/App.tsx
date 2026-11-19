@@ -13,7 +13,7 @@ function App() {
 
   //return le ROUTES!
   return (
-    <BrowserRouter basename="/Butterfly-App-React">
+    <BrowserRouter basename="/Butterflies-App-React">
       <div className="App">
       <Navbar />
       <Sidebar />
