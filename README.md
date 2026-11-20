@@ -19,8 +19,8 @@ Butterfly Atlas is a personal learning project developed to practice React and T
 - **CSS3** – Styling and responsive layouts.
 - **Lottie** – Displaying animated illustrations.
 - **iNaturalist API** – Retrieving butterfly species data and images.
-- **Git & GitHub** – Version control and project hosting.
-- **GitHub Actions** – Automating the deployment process with GitHub Pages.
+- **FormSpree** – Handles submissions end-to-end with storage.
+
 
 
 ## 🌍 API
